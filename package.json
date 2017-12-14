@@ -1,0 +1,37 @@
+{
+  "name": "wat",
+  "version": "1.0.0",
+  "description": "web automatic test",
+  "main": "gen_ai.js",
+  "dependencies": {
+    "array-shuffle": "^1.0.1",
+    "bluebird": "^3.5.1",
+    "js-combinatorics": "^0.5.3",
+    "mongodb": "^2.2.31",
+    "nightmare": "^2.10.0",
+    "number-array-generator": "^1.0.1",
+    "promised-mongo": "^1.2.0",
+    "wat_action_nightmare": "^1.0.14",
+    "winston": "^2.4.0",
+    "yargs": "^10.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node gen_ai.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenweiLabri/WAT.git"
+  },
+  "keywords": [
+    "web",
+    "automatic",
+    "test"
+  ],
+  "author": "wei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenweiLabri/WAT/issues"
+  },
+  "homepage": "https://github.com/chenweiLabri/WAT#readme"
+}
