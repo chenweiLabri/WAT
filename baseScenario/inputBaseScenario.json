@@ -1,0 +1,46 @@
+[
+  {
+    "type": "GotoAction",
+    "url": "https://www.labri.fr/"
+  },
+  {
+    "type": "ClickAction",
+    "selector": {
+      "watId": "#menu > UL:nth-child(7) > LI:nth-child(1) > A:nth-child(1)",
+      "watPath": "HTML > BODY:nth-child(2) > DIV:nth-child(1) > TABLE:nth-child(2) > TBODY:nth-child(1) > TR:nth-child(2) > TD:nth-child(1) > TABLE:nth-child(1) > TBODY:nth-child(1) > TR:nth-child(1) > TD:nth-child(1) > DIV:nth-child(1) > TABLE:nth-child(1) > TBODY:nth-child(1) > TR:nth-child(1) > TD:nth-child(1) > UL:nth-child(7) > LI:nth-child(1) > A:nth-child(1)",
+      "optimal": "#menu ul:nth-child(7) li:nth-of-type(1) .wikilink"
+    }
+  },
+  {
+    "type": "ClickAction",
+    "selector": {
+      "watId": "#menu > UL:nth-child(7) > LI:nth-child(3) > A:nth-child(1)",
+      "watPath": "HTML > BODY:nth-child(2) > DIV:nth-child(1) > TABLE:nth-child(2) > TBODY:nth-child(1) > TR:nth-child(2) > TD:nth-child(1) > TABLE:nth-child(1) > TBODY:nth-child(1) > TR:nth-child(1) > TD:nth-child(1) > DIV:nth-child(1) > TABLE:nth-child(1) > TBODY:nth-child(1) > TR:nth-child(1) > TD:nth-child(1) > UL:nth-child(7) > LI:nth-child(3) > A:nth-child(1)",
+      "optimal": "#menu ul:nth-child(7) li:nth-of-type(3) .wikilink"
+    }
+  },
+  {
+    "type": "ClickAction",
+    "selector": {
+      "watId": "#menu > UL:nth-child(7) > LI:nth-child(5) > A:nth-child(1)",
+      "watPath": "HTML > BODY:nth-child(2) > DIV:nth-child(1) > TABLE:nth-child(2) > TBODY:nth-child(1) > TR:nth-child(2) > TD:nth-child(1) > TABLE:nth-child(1) > TBODY:nth-child(1) > TR:nth-child(1) > TD:nth-child(1) > DIV:nth-child(1) > TABLE:nth-child(1) > TBODY:nth-child(1) > TR:nth-child(1) > TD:nth-child(1) > UL:nth-child(7) > LI:nth-child(5) > A:nth-child(1)",
+      "optimal": "#menu ul:nth-child(7) li:nth-of-type(5) .wikilink"
+    }
+  },
+  {
+    "type": "ClickAction",
+    "selector": {
+      "watId": "#menu > UL:nth-child(7) > LI:nth-child(8) > A:nth-child(1)",
+      "watPath": "HTML > BODY:nth-child(2) > DIV:nth-child(1) > TABLE:nth-child(2) > TBODY:nth-child(1) > TR:nth-child(2) > TD:nth-child(1) > TABLE:nth-child(1) > TBODY:nth-child(1) > TR:nth-child(1) > TD:nth-child(1) > DIV:nth-child(1) > TABLE:nth-child(1) > TBODY:nth-child(1) > TR:nth-child(1) > TD:nth-child(1) > UL:nth-child(7) > LI:nth-child(8) > A:nth-child(1)",
+      "optimal": "#menu li:nth-of-type(8) .wikilink"
+    }
+  },
+  {
+    "type": "ClickAction",
+    "selector": {
+      "watId": "#menu > UL:nth-child(9) > LI:nth-child(3) > A:nth-child(1)",
+      "watPath": "HTML > BODY:nth-child(2) > DIV:nth-child(1) > TABLE:nth-child(2) > TBODY:nth-child(1) > TR:nth-child(2) > TD:nth-child(1) > TABLE:nth-child(1) > TBODY:nth-child(1) > TR:nth-child(1) > TD:nth-child(1) > DIV:nth-child(1) > TABLE:nth-child(1) > TBODY:nth-child(1) > TR:nth-child(1) > TD:nth-child(1) > UL:nth-child(9) > LI:nth-child(3) > A:nth-child(1)",
+      "optimal": "#menu ul:nth-child(9) li:nth-of-type(3) .wikilink"
+    }
+  }
+]
